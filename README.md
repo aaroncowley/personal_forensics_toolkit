@@ -119,7 +119,7 @@ I give this tool a good / yes
 #### Usage
 Download and install your copy and then either drag binary to its shortcut icon or open it from within its file browser.  It will show some disassembly options to you. Unless you are dealing with a weird format or can see that the wrong option is highlighted in the menu.  You will then be taken to graph mode and can refer to the [ida cheat sheet](https://www.hex-rays.com/products/ida/support/freefiles/IDA_Pro_Shortcuts.pdf) for more specific operational advice relating to your task at hand.
 
-### GNU Debugger (GDB)
+### [GNU Debugger (GDB)](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 #### Description
 GNU debugger is one of the best tools for linux dynamic analysis.  It allows for breakpoints to be set and for arbitrary jumps in code to be made.  It can help debug logic of a binary and can be used to see how code runs step by step.
 #### Review
